@@ -1,0 +1,19 @@
+{
+  "name": "scamshield-ai",
+  "version": "1.0.0",
+  "description": "ScamShield AI: AI-Powered Scam Calls, SMS, Phishing URL and Fraud Detection Platform",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "keywords": [
+    "cybersecurity",
+    "fraud-detection",
+    "scam-detection",
+    "phishing",
+    "digital-safety"
+  ],
+  "author": "ScamShield AI Team",
+  "license": "MIT"
+}
