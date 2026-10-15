@@ -207,3 +207,5 @@ pytest -v -p no:cacheprovider
   - *Telugu Localization*: Switch to 'తెలుగు' with one click, showing accessibility for regional language speakers.
 - **[3:15 - 4:15] Privacy & Architecture**: We never store private messages. The system operates 100% offline without costly cloud APIs.
 - **[4:15 - 5:00] Conclusion & Q&A**: ScamShield AI turns ordinary citizens into informed defenders against cybercrime. "Detect Scams Before They Detect You."
+#   f a k e w e b d e t e c t i o n  
+ 
