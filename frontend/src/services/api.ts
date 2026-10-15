@@ -1,6 +1,6 @@
 import { AnalysisResponse, ScanHistoryItem, StatsResponse, ScanType } from '../types';
 
-const DEFAULT_API_BASE = 'http://localhost:8000/api';
+const DEFAULT_API_BASE = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api';
 
 export function getApiBaseUrl(): string {
   return localStorage.getItem('scamshield_api_base') || DEFAULT_API_BASE;
